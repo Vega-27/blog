@@ -1,0 +1,10 @@
+npx create-react-app .
+npm start
+
+npm inslall react-router-dom@5
+
+npx json-server --watch data/db.json --port 8000
+
+gid add .
+git commit -m "Message"
+git push
